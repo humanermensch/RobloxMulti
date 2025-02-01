@@ -36,7 +36,7 @@ Contributions are welcome! If you have ideas for improvements or want to add fea
 **Installation:**
 
     Clone the repository:
-      git clone https://github.com/yourusername/RobloxMulti.git
+      git clone https://github.com/humanermensch/RobloxMulti.git
 
     Install the required dependencies:
       pip install pywin32
